@@ -1,0 +1,10 @@
+2026-03-18 03:41:51,643 - INFO - customers.csv procesado correctamente
+2026-03-18 03:41:51,968 - INFO - orders.csv procesado correctamente
+2026-03-18 03:41:53,329 - INFO - order_details.csv procesado correctamente
+2026-03-18 03:41:53,404 - INFO - products.csv procesado correctamente
+2026-03-18 03:50:05,514 - INFO - customers.csv procesado correctamente
+2026-03-18 03:50:05,879 - INFO - orders.csv procesado correctamente
+2026-03-18 03:50:06,510 - INFO - order_details.csv procesado correctamente
+2026-03-18 03:50:06,550 - INFO - products.csv procesado correctamente
+2026-03-18 03:50:11,052 - INFO - Datos de BD procesados
+2026-03-18 03:50:11,456 - INFO - Datos de API procesados
